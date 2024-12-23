@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hello World! This is my first attempt at creating a README file utilizing Github! 
+## I am currently learning how to use Git and Github in order to progress in my cloud journey! I will try to update this from time to time! 
 <!--
 **MageinCloud/MageinCloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
